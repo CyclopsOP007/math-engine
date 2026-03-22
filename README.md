@@ -16,5 +16,10 @@ A math engine built from scratch in C++ that solves equations step by step and e
 - **No external AI libraries**
 
 ## Project Phases
-| Phase |     Name     | Status |
-    1      Tokenizer     In progress
+
+- Tokenizer
+- Parser
+- Solver Engine
+- Neural Network Explainer
+- C++ Web Bridge (WASM)
+- Frontend
